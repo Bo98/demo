@@ -2,6 +2,9 @@ GEM
   remote: https://rubygems.org/
   specs:
     business (1.0.0)
+    concurrent-ruby (1.1.7)
+    i18n (1.8.8)
+      concurrent-ruby (~> 1.0)
     uk_phone_numbers (0.1.0)
 
 PLATFORMS
@@ -9,6 +12,7 @@ PLATFORMS
 
 DEPENDENCIES
   business (~> 1.0.0)
+  i18n
   uk_phone_numbers (~> 0.1.0)
 
 BUNDLED WITH
