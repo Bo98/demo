@@ -9,7 +9,11 @@ updates:
     directory: "/javascript"
     schedule:
       interval: daily
+    allow:
+      - dependency-type: all
   - package-ecosystem: bundler
     directory: "/ruby"
     schedule:
-      interval: weekly
+      interval: daily
+    allow:
+      - dependency-type: all
