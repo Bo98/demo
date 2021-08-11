@@ -24,9 +24,9 @@ hot-formula-parser@^3.0.0:
     tiny-emitter "^2.1.0"
 
 jstat@^1.9.2:
-  version "1.9.3"
-  resolved "https://registry.yarnpkg.com/jstat/-/jstat-1.9.3.tgz#6a0e60c3b87fd714b61e765b77fc6b035437ee34"
-  integrity sha512-/2JL4Xv6xfhN2+AEKQGTYr1LZTmBCR/5fHxJVvb9zWNsmKZfKrl3wYYK8SD/Z8kXkf+ZSusfumLZ4wDTHrWujA==
+  version "1.9.5"
+  resolved "https://registry.yarnpkg.com/jstat/-/jstat-1.9.5.tgz#9941741566f683624ddeb56f5ba60ed8c29b374e"
+  integrity sha512-cWnp4vObF5GmB2XsIEzxI/1ZTcYlcfNqxQ/9Fp5KFUa0Jf/4tO0ZkGVnqoEHDisJvYgvn5n3eWZbd2xTVJJPUQ==
 
 lodash@^4.17.20:
   version "4.17.20"
